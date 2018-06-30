@@ -30,7 +30,6 @@ public class TestProgram {
         }
         // Validando o resultado esperado!
         IWebElement field_cpf_after = driver.FindElement (By.Id ("cpf"));
-        Console.WriteLine (field_cpf_after.Text);
         Assert.AreEqual ("967.578.258-72", field_cpf_after.GetAttribute ("value"));
     }
 }
