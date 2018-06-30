@@ -1,0 +1,11 @@
+c:\GITHUB\tests_solution_c#\obj\Debug\netcoreapp2.1\tests_solution_c#.csprojAssemblyReference.cache
+c:\GITHUB\tests_solution_c#\obj\Debug\netcoreapp2.1\tests_solution_c#.csproj.CoreCompileInputs.cache
+c:\GITHUB\tests_solution_c#\obj\Debug\netcoreapp2.1\tests_solution_c#.AssemblyInfoInputs.cache
+c:\GITHUB\tests_solution_c#\obj\Debug\netcoreapp2.1\tests_solution_c#.AssemblyInfo.cs
+C:\GITHUB\tests_solution_c#\bin\Debug\netcoreapp2.1\tests_solution_c#.deps.json
+C:\GITHUB\tests_solution_c#\bin\Debug\netcoreapp2.1\tests_solution_c#.runtimeconfig.json
+C:\GITHUB\tests_solution_c#\bin\Debug\netcoreapp2.1\tests_solution_c#.runtimeconfig.dev.json
+C:\GITHUB\tests_solution_c#\bin\Debug\netcoreapp2.1\tests_solution_c#.dll
+C:\GITHUB\tests_solution_c#\bin\Debug\netcoreapp2.1\tests_solution_c#.pdb
+C:\GITHUB\tests_solution_c#\obj\Debug\netcoreapp2.1\tests_solution_c#.dll
+C:\GITHUB\tests_solution_c#\obj\Debug\netcoreapp2.1\tests_solution_c#.pdb
